@@ -45,4 +45,4 @@ This project is open-source and free to use. Attribution appreciated!
 
 **Happy automating!**
 
-“Move SaveAttachments.bas to outlook-attachment-saver folder
+
