@@ -72,3 +72,5 @@ Function CleanFileName(strFileName As String) As String
 End Function
 
 
+
+“Move SaveAttachments.bas to outlook-attachment-saver folder"
