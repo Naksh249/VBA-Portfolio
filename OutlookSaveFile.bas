@@ -9,8 +9,9 @@ Sub SaveAllAttachmentsFromSelectedEmails()
     Dim fullFilePath As String
     Dim i As Integer
 
-    ' Set your UNC network path
-    saveFolder = "\\DTSRVHQFS\Shared\Accts Dept\Accounts\Purchase Ledger\Processing\Coopervision Import\PDF Invoices to upload\"
+' Set your UNC network path
+saveFolder = "\\YourServer\YourShare\YourPath\PDF Invoices to upload\"
+
 
     ' Ensure the path ends with a backslash
     If Right(saveFolder, 1) <> "\" Then
@@ -69,4 +70,5 @@ Function CleanFileName(strFileName As String) As String
 
     CleanFileName = strFileName
 End Function
+
 
