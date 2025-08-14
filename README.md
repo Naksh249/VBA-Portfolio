@@ -5,12 +5,12 @@ This repository showcases a collection of my VBA (Visual Basic for Applications)
 
 ## What You'll Find Here
 
-- **Automated Reports:** Examples of macros that generate and format reports automatically.
-- **Data Cleaning Tools:** Scripts that clean, transform, and validate large datasets.
-- **Custom User Forms:** Interactive forms developed using VBA for improved user experience.
-- **Productivity Utilities:** Macros that speed up repetitive office tasks.
+ **Email and Attachment Automation:** Macros that streamline email workflows, such as saving attachments from multiple Outlook emails in one click.
+- **Data Import & Reconciliation:** VBA scripts that import, consolidate, and reconcile data from multiple Excel files, including seamless integration with existing Power Query solutions.
+- **Data Cleaning Tools:** Utilities to clear, filter, and transform raw datasets for analysis or reporting.
+- **Productivity Enhancements:** Macros designed to automate repetitive tasks and improve efficiency in Excel and Outlook.
 
-Each project includes a folder with sample code, documentation, and (where possible) example files. Feel free to browse the code, try out the macros, or use them as inspiration for your own projects!
+Each project is organized in its own folder with sample code, clear documentation, and (where applicable) example files. Feel free to explore the code, try out the macros, or adapt them for your own workflow!
 
 ## About Me
 
